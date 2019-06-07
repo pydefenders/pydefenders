@@ -14,17 +14,20 @@ PyDefenders is an open source community to connect security defenders (aka. blue
 - Jupyter widgets that help make authoring and reading notebooks simpler
 
 ## Founding principles
+
 - Be agnostic to platforms and products - although we welcome contributions of tools and code developed for a specific product (e.g. ArcSight, Splunk, Azure Sentinel, etc.) the community itself is not tied to and does not favor any specific commercial or open source solutions.
 - Link rather than re-write - wherever possible, we want to point people to existing work rather than re-implement it.
 
 ## Repo Organization
-This repo is intended to be a place for documentation and to store and organize links to related repos and sites. Code and notebook samples can also be submitted here but Python packages should have dedicated repos. 
+
+This repo is intended to be a place for documentation and to store and organize links to related repos and sites. Code and notebook samples can also be submitted here but Python packages should have dedicated repos.
 
 ### Main documents
 
-- Python tools - links to python packages
-- Blogs and docs - useful documents, articles, videos, or presentations
-- Wishlist - list of gaps that we want to fill
+- [Python tools](./docs/PythonTools.md) - links to python packages
+- [Resources](./docs/Resources.md) Useful documents, articles, videos, or presentations
+- [Wishlist](./docs/WishList.md) - list of gaps that we want to fill
 
 ### Your ideas are intriguing to me and I wish to subscribe to your newsletter
-Join the conversation in the [security-defenders-sig@python.org](https://mail.python.org/mailman3/lists/security-defenders-sig.python.org/) mailing list. 
+
+Join the conversation in the [security-defenders-sig@python.org](https://mail.python.org/mailman3/lists/security-defenders-sig.python.org/) mailing list.
