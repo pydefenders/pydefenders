@@ -14,7 +14,7 @@ PyDefenders is an open source community to connect security defenders (aka. blue
 - Jupyter widgets that help make authoring and reading notebooks simpler
 
 ## Founding principles
-- Be agnostic to platforms and products - although we welcome contributions of tools and code developed for a specific product (e.g. ArcSight, Splunk, Azure Sentinel, etc.) the community itself is not tied and does not favor andy specific commercial or open source solutions.
+- Be agnostic to platforms and products - although we welcome contributions of tools and code developed for a specific product (e.g. ArcSight, Splunk, Azure Sentinel, etc.) the community itself is not tied to and does not favor any specific commercial or open source solutions.
 - Link rather than re-write - wherever possible, we want to point people to existing work rather than re-implement it.
 
 ## Repo Organization
