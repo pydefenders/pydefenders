@@ -25,3 +25,6 @@ This repo is intended to be a place for documentation and to store and organize 
 - Python tools - links to python packages
 - Blogs and docs - useful documents, articles, videos, or presentations
 - Wishlist - list of gaps that we want to fill
+
+### Your ideas are intriguing to me and I wish to subscribe to your newsletter
+Join the conversation in the [security-defenders-sig@python.org](https://mail.python.org/mailman3/lists/security-defenders-sig.python.org/) mailing list. 
