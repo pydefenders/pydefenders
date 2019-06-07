@@ -23,5 +23,5 @@ This repo is intended to be a place for documentation and to store and organize 
 ### Main documents
 
 - Python tools - links to python packages
-- Blogs and docs - useful documents and articles
+- Blogs and docs - useful documents, articles, videos, or presentations
 - Wishlist - list of gaps that we want to fill
