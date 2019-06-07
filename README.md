@@ -1,6 +1,6 @@
 # pydefenders
 
-PyDefenders is an open source community to connect security defenders (aka blue teams) to working with Python and Jupyter tools and libraries. The use of Python is widespread among defender teams. The use of Jupyter notebooks for investigation and hunting is growing in popularity. However, finding tools and examples of code and notebooks that support defender activities is not easy.
+PyDefenders is an open source community to connect security defenders (aka. blue teams) who use and love Python. The use of Python is widespread among defender teams, and the use of tools like Jupyter Notebooks for investigation and hunting is growing in popularity. However, finding tools and examples of code and notebooks that support defender activities is not easy.
 
 ## What do we want to do?
 
