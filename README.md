@@ -7,7 +7,7 @@ PyDefenders is an open source community to connect security defenders (aka. blue
 - Provide a central location where we can accumulate code, knowledge and links to other resources for defenders.
 - Members of the community are free to create and maintain repos under the pydefenders organization
 
-## Examples of Tools and Resource that we want to build and encourage
+## Examples of Tools and Resources that we want to build and encourage
 
 - Parsing and processing for common logs and data
 - Visualizations - timelines, process trees, anomaly graphs, etc.
