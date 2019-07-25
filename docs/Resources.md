@@ -12,6 +12,12 @@
 - [Mitre Attack map for Splunk](https://github.com/olafhartong/ThreatHunting)
 - [RealPython Repo of Python Scripts](https://github.com/realpython/python-scripts) - Commonly used general purpose Python Scripts- not security specific
 
+- [NCSC Tools](https://github.com/ukncsc)
+  - [Viper](https://github.com/ukncsc/viper) - Viper is a binary analysis and management framework. Its fundamental objective is to provide a solution to easily organize your collection of malware and exploit samples  
+  -[HashSTIXer](https://github.com/ukncsc/HashSTIXer) - takes a folder of files, calaulates hashes for them and outputs STIX packages for TI usage
+  - [IOCParser](https://github.com/ukncsc/edge-ioc_parser) - IOC Parser is a tool to extract indicators of compromise from security reports in PDF format. 
+
+
 ## Talks and Presentations
 
 - [Security Analyst Toolset - Florian Roth](https://www.slideshare.net/FlorianRoth2/security-analyst-workshop-20190314)
